@@ -1,6 +1,6 @@
 # To-Do remainder app using RESTFUL
 
-**Hosted website Link**: [Click here To View Website](https://675f8548df3c7d3e534ba841--cosmic-youtiao-fdf9e6.netlify.app/)
+**Hosted website Link**: [Click here To View Website](https://cosmic-youtiao-fdf9e6.netlify.app/)
 
 # To-Do Reminder App 📝
 
