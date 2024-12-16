@@ -1,4 +1,4 @@
-# To-Do remainder app using RESTFUL
+# To-Do remainder app
 
 **Hosted website Link**: [Click here To View Website](https://cosmic-youtiao-fdf9e6.netlify.app/)
 
@@ -13,6 +13,7 @@ This is a full-stack To-Do Reminder application that helps users manage their ta
 - **Add Tasks**: Add tasks with a title and description.
 - **Delete All Tasks**: Clear all tasks in one click.
 - **Task Management**: Mark tasks as completed or delete individual tasks.
+- **Edit To-Do**: User can Edit tasks/To-Do. 
 - **Light/Dark Mode**: Toggle between light and dark themes.
 - **To-Do and Completed Lists**: Separate columns for tasks that are pending and completed.
 
