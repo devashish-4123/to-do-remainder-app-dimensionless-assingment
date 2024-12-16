@@ -48,37 +48,42 @@ This is a full-stack To-Do Reminder application that helps users manage their ta
 git clone https://github.com/your-username/todo-reminder-app.git
 
 cd todo-reminder-app
+```
 
+## Backend Setup
 
-
-### 1. To run the testcases
-
-#Backend Setup
-
+### Step 1: Navigate To backend Directory:  
 ```bash
-
 cd backend
-
-
+```
+### Step 2: Create a Virtual Environment:  
+```bash
 python -m venv venv
 source venv/bin/activate  # For Mac/Linux
 venv\Scripts\activate     # For Windows
+```
 
-
+### Step 3: Install Dependencies:  
+```bash
 pip install -r requirements.txt
-exit
+```
 
-#Test Cases Run 
+## Running Testcases - To run test case file, must stetup backend - Follow above steps
 
+### Step 1: Navigate To backend Directory and activate the virtual environment:  
 ```bash
 cd backend
 source venv/bin/activate  # For Mac/Linux
 venv\Scripts\activate     # For Windows
-
-
+```
+### Step 2: Navigate to test file:  
+```bash
 cd app
-
+```
+### Step 3: Run the test cases:  
+```bash
 pytest -v test.py
+```
 
-exit
+
 
