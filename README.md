@@ -1,6 +1,7 @@
 # To-Do remainder app
 
 **Hosted website Link**: [Click here To View Website](https://cosmic-youtiao-fdf9e6.netlify.app/)
+Note - Please refresh the page after adding the new tasks in hosted website.
 
 # To-Do Reminder App 📝
 
