@@ -1,13 +1,11 @@
-# To-Do remainder app
-
-**Hosted website Link**: [Click here To View Website](https://cosmic-youtiao-fdf9e6.netlify.app/)
-Note - Please refresh the page after adding the new tasks in hosted website.
-
 # To-Do Reminder App 📝
-
-This is a full-stack To-Do Reminder application that helps users manage their tasks. It features a light/dark mode toggle, a clean UI, and functionality to add, update, delete, and mark tasks as completed. The backend is built with FastAPI and MongoDB, while the frontend uses React with Material-UI (MUI) for a responsive design.
+This is a full-stack To-Do Reminder application that helps users manage their tasks. It features a light/dark mode toggle, a clean UI, and functionality to add, edit, delete, and mark tasks as completed. The backend is built with FastAPI and MongoDB, while the frontend uses React with Material-UI (MUI) for a responsive design.
 
 ---
+
+**Hosted website Link**: [Click here To View Website](https://cosmic-youtiao-fdf9e6.netlify.app/).
+
+Note - Please refresh the page after adding the new tasks in hosted website.
 
 ## Features ✨
 
@@ -87,5 +85,25 @@ cd app
 pytest -v test.py
 ```
 
+## To run Project on Local:
+**Note-** Replace the backend live server link to the local backend server to run the complete project Locally.
+
+### Follow the Backend stetup steps.
+### Create env file and add the MONGO_URI = your mongo connection url
+
+## Frontend Setup
+
+### Step 1: Navigate To Frontend Directory:  
+```bash
+cd todo
+```
+### Step 2: Install Dependencies:  
+```bash
+npm install
+```
+### Step 3: Start Frontend:  
+```bash
+npm start
+```
 
 
