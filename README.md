@@ -1,4 +1,4 @@
-# To-Do Reminder App 📝
+# To-Do Reminder App 
 This is a full-stack To-Do Reminder application that helps users manage their tasks. It features a light/dark mode toggle, a clean UI, and functionality to add, edit, delete, and mark tasks as completed. The backend is built with FastAPI and MongoDB, while the frontend uses React with Material-UI (MUI) for a responsive design.
 
 ---
@@ -7,7 +7,7 @@ This is a full-stack To-Do Reminder application that helps users manage their ta
 
 Note - Please refresh the page after adding the new tasks in hosted website.
 
-## Features ✨
+## Features 
 
 - **Add Tasks**: Add tasks with a title and description.
 - **Delete All Tasks**: Clear all tasks in one click.
@@ -18,7 +18,7 @@ Note - Please refresh the page after adding the new tasks in hosted website.
 
 ---
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 ### Frontend
 - **React**: Frontend framework for building user interfaces.
@@ -36,7 +36,7 @@ Note - Please refresh the page after adding the new tasks in hosted website.
 
 ---
 
-## Project Setup 🚀
+## Project Setup 
 
 ### Prerequisites
 - **Node.js**: For running the frontend.
